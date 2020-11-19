@@ -7,5 +7,11 @@
 "SELL_PRICE_1_QTY" : "1KG"
 "SELL_PRICE_2" : "21",
 "SELL_PRICE_2_QTY" : "500gm",
+"SELL_PRICE_3" : "11",
+"SELL_PRICE_3_QTY" : "250gm",
+"SELL_PRICE_4" : "",
+"SELL_PRICE_4_QTY" : "",
+"SELL_PRICE_5" : "",
+"SELL_PRICE_5_QTY" : "",
 }
 ]
