@@ -10,8 +10,8 @@
 "SELL_PRICE_2_QTY" : "500gm",
 "SELL_PRICE_3" : "15",
 "SELL_PRICE_3_QTY" : "250gm",
-"SELL_PRICE_4" : "100gm",
-"SELL_PRICE_4_QTY" : "6",
+"SELL_PRICE_4" : "6",
+"SELL_PRICE_4_QTY" : "100gm",
 "SELL_PRICE_5" : "Rs10",
 "SELL_PRICE_5_QTY" : "150gm"
 },
