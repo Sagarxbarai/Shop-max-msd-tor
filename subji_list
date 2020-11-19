@@ -3,17 +3,17 @@
 {
 "TITLE" : "পিঁয়াজ/onions",
 "IMAGE" : "https://github.com/Sagarxbarai/ImgShopMax_tor/raw/main/onions.jpeg",
-"ORIGINAL_PRICE" : "33",
-"SELL_PRICE_1" : "42",
+"ORIGINAL_PRICE" : "....",
+"SELL_PRICE_1" : "60",
 "SELL_PRICE_1_QTY" : "1KG..",
-"SELL_PRICE_2" : "21",
+"SELL_PRICE_2" : "30",
 "SELL_PRICE_2_QTY" : "500gm",
-"SELL_PRICE_3" : "11",
+"SELL_PRICE_3" : "15",
 "SELL_PRICE_3_QTY" : "250gm",
-"SELL_PRICE_4" : "",
-"SELL_PRICE_4_QTY" : "",
-"SELL_PRICE_5" : "",
-"SELL_PRICE_5_QTY" : ""
+"SELL_PRICE_4" : "100gm",
+"SELL_PRICE_4_QTY" : "6",
+"SELL_PRICE_5" : "Rs10",
+"SELL_PRICE_5_QTY" : "150gm"
 },
 
 
