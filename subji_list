@@ -1,6 +1,22 @@
 [
 
 {
+"TITLE" : "লঙ্কা/chill",
+"IMAGE" : "https://github.com/Sagarxbarai/ImgShopMax_tor/raw/main/images%20(1).jpeg",
+"ORIGINAL_PRICE" : "30",
+"SELL_PRICE_1" : "40",
+"SELL_PRICE_1_QTY" : "1KG..",
+"SELL_PRICE_2" : "20",
+"SELL_PRICE_2_QTY" : "500gm",
+"SELL_PRICE_3" : "10",
+"SELL_PRICE_3_QTY" : "250gm",
+"SELL_PRICE_4" : "4",
+"SELL_PRICE_4_QTY" : "100gm",
+"SELL_PRICE_5" : "",
+"SELL_PRICE_5_QTY" : ""
+},
+
+{
 "TITLE" : "পিঁয়াজ/onions",
 "IMAGE" : "https://github.com/Sagarxbarai/ImgShopMax_tor/raw/main/onions.jpeg",
 "ORIGINAL_PRICE" : "....",
