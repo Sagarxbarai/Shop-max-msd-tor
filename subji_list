@@ -16,25 +16,27 @@
 {
 "TITLE" : "পিঁয়াজ/onions",
 "IMAGE" : "https://github.com/Sagarxbarai/ImgShopMax_tor/raw/main/onions.jpeg",
-"ORIGINAL_PRICE" : "....",
+"SHOP_NAME" : "MAXTOR GORCARY STORE",
+"SELLER_NAME" : "SAGAR BARAI",
+"PHONE_NO" : "+919083542225",
+"MASSAGE" : ""
+"PRODUCT_INFO" : "",
+"ORIGINAL_PRICE" : "..",
 "SELL_PRICE_1" : "60",
-"SELL_PRICE_1_QTY" : "1KG",
+"SELL_PRICE_1_QTY" : "1KG"
 },
 
 
 {
 "TITLE" : "আলু/Potato",
 "IMAGE" : "https://github.com/Sagarxbarai/ImgShopMax_tor/raw/main/Optimized-potato%E0%A6%86%E0%A6%B2%E0%A7%81.jpg",
+"SHOP_NAME" : "MAXTOR GORCARY STORE",
+"SELLER_NAME" : "SAGAR BARAI",
+"PHONE_NO" : "+919083542225",
+"MASSAGE" : ""
+"PRODUCT_INFO" : "",
 "ORIGINAL_PRICE" : "33",
 "SELL_PRICE_1" : "42",
-"SELL_PRICE_1_QTY" : "1KG..",
-"SELL_PRICE_2" : "21",
-"SELL_PRICE_2_QTY" : "500gm",
-"SELL_PRICE_3" : "11",
-"SELL_PRICE_3_QTY" : "250gm",
-"SELL_PRICE_4" : "",
-"SELL_PRICE_4_QTY" : "",
-"SELL_PRICE_5" : "",
-"SELL_PRICE_5_QTY" : ""
+"SELL_PRICE_1_QTY" : "1KG"
 }
 ]
