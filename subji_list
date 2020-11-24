@@ -7,9 +7,8 @@
 "SELLER_NAME" : "SAGAR BARAI",
 "PHONE_NO" : "+919083542225",
 "MASSAGE" : "Hello Sagar I want to buy your product",
-"PRODUCT_INFO" : "1kg Potato rs 42 
-Market Price 1kg rs 45 ",
-"ORIGINAL_PRICE" : "30",
+"PRODUCT_INFO" : "",
+"TYPE" : "Kg",
 "SELL_PRICE_1" : "50",
 "SELL_PRICE_1_QTY" : "1KG"
 },
@@ -22,7 +21,7 @@ Market Price 1kg rs 45 ",
 "PHONE_NO" : "+919083542225",
 "MASSAGE" : "",
 "PRODUCT_INFO" : "",
-"ORIGINAL_PRICE" : "..",
+"TYPE" : "Kg",
 "SELL_PRICE_1" : "80",
 "SELL_PRICE_1_QTY" : "1KG"
 },
@@ -36,7 +35,7 @@ Market Price 1kg rs 45 ",
 "PHONE_NO" : "+919083542225",
 "MASSAGE" : "",
 "PRODUCT_INFO" : "",
-"ORIGINAL_PRICE" : "33",
+"TYPE" : "Kg",
 "SELL_PRICE_1" : "42",
 "SELL_PRICE_1_QTY" : "1KG"
 }
