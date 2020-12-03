@@ -1,4 +1,15 @@
 [
+{
+"TITLE" : "রসুন/chill",
+"IMAGE" : "https://github.com/Sagarxbarai/ImgShopMax_tor/raw/main/garlic.jpeg",
+"SHOP_NAME" : "MAXTOR GORCARY STORE",
+"SELLER_NAME" : "SAGAR BARAI",
+"PHONE_NO" : "+919083542225",
+"PRODUCT_INFO" : "",
+"TYPE" : "Kg",
+"SELL_PRICE_1" : "100",
+"SELL_PRICE_1_QTY" : "1KG"
+},
 
 {
 "TITLE" : "লঙ্কা/chill",
@@ -16,7 +27,7 @@
 {
 "TITLE" : "পিঁয়াজ/onions",
 "IMAGE" : "https://github.com/Sagarxbarai/ImgShopMax_tor/raw/main/onions.jpeg",
-"SHOP_NAME" : "MAXTOR GORCARY STORE",
+"SHOP_NAME" : "MAXTOR GORCARY
 "SELLER_NAME" : "SAGAR BARAI",
 "PHONE_NO" : "+919083542225",
 "MASSAGE" : "",
