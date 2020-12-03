@@ -1,9 +1,22 @@
 [
 
+{
+"TITLE" : "মরিচ/Chill",
+"IMAGE" : "https://github.com/Sagarxbarai/ImgShopMax_tor/raw/main/images%20(1).jpeg",
+"SHOP_NAME" : "MAXTOR GORCARY STORE",
+"SELLER_NAME" : "SAGAR BARAI",
+"PHONE_NO" : "+919083542225",
+"PRODUCT_INFO" : "",
+"TYPE" : "Kg",
+"SELL_PRICE_1" : "40",
+"SELL_PRICE_1_QTY" : "1KG"
+},
+
+
 
 {
 "TITLE" : "পেঁয়াজ/Onions",
-"IMAGE" : "https://github.com/Sagarxbarai/ImgShopMax_tor/raw/main/garlic.jpeg",
+"IMAGE" : "https://github.com/Sagarxbarai/ImgShopMax_tor/raw/main/onions.jpeg",
 "SHOP_NAME" : "MAXTOR GORCARY STORE",
 "SELLER_NAME" : "SAGAR BARAI",
 "PHONE_NO" : "+919083542225",
